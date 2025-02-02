@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Deng&#39;s page</title>
+<link>https://www.boyublog.com/blog.html</link>
+<atom:link href="https://www.boyublog.com/blog.xml" rel="self" type="application/rss+xml"/>
+<description>A personal blog about technology, AI, and more</description>
+<generator>quarto-1.6.40</generator>
+<lastBuildDate>Tue, 31 Dec 2024 16:00:00 GMT</lastBuildDate>
+<item>
+  <title>New Year Reflections</title>
+  <dc:creator>Alice </dc:creator>
+  <link>https://www.boyublog.com/posts/test.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="欢迎-2024" class="level1">
+<h1>欢迎 2024！</h1>
+<p>这一年我学到了很多新的东西……</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Personal</category>
+  <category>Deep Learning</category>
+  <guid>https://www.boyublog.com/posts/test.html</guid>
+  <pubDate>Tue, 31 Dec 2024 16:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

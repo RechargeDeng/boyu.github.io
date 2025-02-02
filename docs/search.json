@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Deng’s Blog",
+    "section": "",
+    "text": "My original intention of blogging is to record my learning. The content of the blog will cover theories such as mathematics, machine learning, and deep learning.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNew Year Reflections\n\n\n\n\n\n\nPersonal\n\n\nDeep Learning\n\n\n\n\n\n\n\n\n\n2025-01-01\n\n\nAlice\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to my homepage. I am currently a master’s student at Peking University, and my research direction is quantitative finance. I hope to apply cutting-edge artificial intelligence technology to the field of quantitative finance.\nIn this personal homepage, I will share relevant technical blogs and practical application projects."
+  },
+  {
+    "objectID": "index.html#event-driven-backtesting-system",
+    "href": "index.html#event-driven-backtesting-system",
+    "title": "Welcome",
+    "section": "Event-driven backtesting system",
+    "text": "Event-driven backtesting system\nAuthors: Boyu Deng\nStatus: Under review\nclick me\n\n\nResearch Report\n\naaa"
+  },
+  {
+    "objectID": "posts/test.html",
+    "href": "posts/test.html",
+    "title": "New Year Reflections",
+    "section": "",
+    "text": "欢迎 2024！\n这一年我学到了很多新的东西……\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "travel.html",
+    "href": "travel.html",
+    "title": "Travel Records",
+    "section": "",
+    "text": "This page records my travel log\n\nShanghai Disneyland\n\n\n\n\n2025-01-17\n\n\nDisneyland\n\nRead more\n\n Back to top"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "profile",
+    "section": "",
+    "text": "You can reach me at boyu@stu.pku.edu.cn\n\n\n Back to top"
+  }
+]

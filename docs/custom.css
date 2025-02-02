@@ -1,0 +1,66 @@
+/* custom.css */
+
+/* 卡片布局样式 */
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.card .title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.card .date {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.card .authors {
+    color: #555;
+}
+
+.card .location {
+    color: #555;
+}
+.card .status {
+    font-style: italic;
+}
+
+.card a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+/* 分隔线 */
+hr {
+    border: 0;
+    height: 1px;
+    background-color: #ddd;
+}
+
+.tags {
+    display: flex;
+    margin: 10px;
+    flex-wrap: wrap;
+}
+
+.tags .tag {
+    display: inline-block;
+    background-color: #f0f0f0;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    color: #555;
+}
